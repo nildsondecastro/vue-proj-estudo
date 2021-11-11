@@ -44,3 +44,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Adicionei o primeiro componente e importei ele
 - Percebi erros se identação e estilo do codigo, provavelmente devido a configuração do eslint
 - Adicionei dados ao componente
+
+- Criei um novo componente e importe ele, mas agora com outra forma de tag: life-cycle
+- tive erros por ter ; 
+    por ter espaço a mais
+     e por ter linha a mais
+- setTimeout
