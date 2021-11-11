@@ -35,7 +35,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - A fonte foi modificada e percebeu-se a mudança
 - No main.js foi importado o app.scss
 
-## 2
-
+1-1
 - Deletei conteúdo do App.vue
 - Deletei componente HelloWorld (deu erro, para resolver tive que apagar a linha do home.vue de import do helloworld)
+
+## 2
+
+- Adicionei o primeiro componente e importei ele
