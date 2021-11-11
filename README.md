@@ -42,3 +42,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 2
 
 - Adicionei o primeiro componente e importei ele
+- Percebi erros se identação e estilo do codigo, provavelmente devido a configuração do eslint
+- Adicionei dados ao componente
