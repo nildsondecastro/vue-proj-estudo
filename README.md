@@ -34,3 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - app.scss criado, nele foram importados o bootstrap e o fontawesome
 - A fonte foi modificada e percebeu-se a mudança
 - No main.js foi importado o app.scss
+
+## 2
+
+- Deletei conteúdo do App.vue
+- Deletei componente HelloWorld (deu erro, para resolver tive que apagar a linha do home.vue de import do helloworld)
