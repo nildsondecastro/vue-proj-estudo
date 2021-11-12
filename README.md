@@ -50,3 +50,18 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     por ter espaço a mais
      e por ter linha a mais
 - setTimeout
+
+## 3 Hierarquia de Componentes
+
+- Criei o componente Pessoa.vue, escrevi o template, escrevi o script
+- Importei ele no App.Vue
+
+- Criei o Info.vue, escrevi o template, escrevi o script
+- Importei ele no Pessoa.vue
+
+- Criei o Form.vue, escrevi o template, escrevi o script
+- Criei uma pasta chamada form dentro da pasta de componentes
+- Dentro da pasta form criei o InputText.vue
+- Dentro da pasta form criei o Submit.vue
+- Importe o Submit.vue e o InputText.vue para o Form.vue
+- Importei o Form.vue para o Pessoa.vue
