@@ -66,6 +66,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Importe o Submit.vue e o InputText.vue para o Form.vue
 - Importei o Form.vue para o Pessoa.vue
 
-## 4
-
 - Dentro de Info, criei a variavel esta_trabalhando e testei por meio do v-if
